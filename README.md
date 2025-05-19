@@ -33,7 +33,7 @@ A lightweight, modern scripting language interpreter written in C++. ManaScript 
 
 2. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/mana-script.git
+git clone https://github.com/ItsVicky25/mana-script.git
 cd mana-script
 ```
 
