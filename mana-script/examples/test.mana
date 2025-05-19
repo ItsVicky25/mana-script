@@ -1,0 +1,12 @@
+// Simple test program
+var x = 42;
+var y = "Hello, World!";
+var z = true;
+
+function add(a, b) {
+    return a + b;
+}
+
+if (x > 40) {
+    print(y);
+} 
