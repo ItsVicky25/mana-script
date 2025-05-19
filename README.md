@@ -203,5 +203,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Thanks to all contributors who have helped shape this project
-- Inspired by modern scripting languages like JavaScript and Python 
+- Inspired by modern scripting languages like JavaScript,c++ and Python 
