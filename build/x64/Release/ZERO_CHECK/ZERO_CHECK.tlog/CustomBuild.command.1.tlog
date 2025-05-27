@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\NEW FOLDER\MANA-SCRIPT\MANA-SCRIPT\BUILD\CMAKEFILES\0FC1762A3F09FE63AD026B3A38902DA3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/hp/Desktop/New folder/mana-script/mana-script" "-BC:/Users/hp/Desktop/New folder/mana-script/mana-script/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/Manascript.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

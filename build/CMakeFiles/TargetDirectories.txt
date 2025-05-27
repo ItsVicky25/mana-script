@@ -1,0 +1,8 @@
+C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/CMakeFiles/manascript.dir
+C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/CMakeFiles/INSTALL.dir
+C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/tests/CMakeFiles/test_lexer.dir
+C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/tests/CMakeFiles/RUN_TESTS.dir
+C:/Users/hp/Desktop/New folder/mana-script/mana-script/build/tests/CMakeFiles/INSTALL.dir

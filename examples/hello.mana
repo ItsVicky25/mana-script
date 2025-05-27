@@ -1,0 +1,7 @@
+// Hello World program in Manascript
+
+// Define the main function
+function main() {
+    print("Hello, World!");
+    return 0;
+}

@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\main.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\main.obj
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\lexer.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\lexer.obj
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\parser.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\parser.obj
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\ast.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\ast.obj
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\transpiler.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\transpiler.obj
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\error.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\error.obj
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\symbol_table.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\symbol_table.obj
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\token.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\token.obj
+C:\Users\hp\Desktop\New folder\mana-script\mana-script\src\interpreter.cpp;C:\Users\hp\Desktop\New folder\mana-script\mana-script\build\manascript.dir\Release\interpreter.obj
